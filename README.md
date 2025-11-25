@@ -49,5 +49,5 @@ Speak natural math expressions like:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/voice-scientific-calculator
+git clone https://github.com/umaradnaan123/voice-scientific-calculator.git
 cd voice-scientific-calculator
