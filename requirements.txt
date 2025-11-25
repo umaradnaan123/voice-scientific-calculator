@@ -1,0 +1,5 @@
+streamlit==1.40.0
+SpeechRecognition==3.10.0
+pyaudio
+pandas==2.2.2
+python-dotenv
